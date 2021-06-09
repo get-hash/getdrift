@@ -1,2 +1,0 @@
-angular testing
-using the recent technologies such as git, CD/CI, Pipeline and Docker.
